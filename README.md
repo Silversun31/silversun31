@@ -13,7 +13,7 @@
   <a href="https://www.t.me/SRemonH" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="32" height="18" alt="telegram logo"  />
   </a>
-  <a href="https://www.wa.me/+5358095239" target="_blank">
+  <a href="https://wa.me/5358095239" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="32" height="18" alt="whatsapp logo"  />
   </a>
   <a href="mailto:silversunr@gmail.com" target="_blank">
